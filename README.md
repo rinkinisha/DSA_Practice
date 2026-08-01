@@ -6,3 +6,4 @@ https://www.geeksforgeeks.org/problems/prime-number2314/1?page=1&category=Mathem
 https://leetcode.com/problems/two-sum/submissions/2080997269/
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 https://www.codechef.com/START249D/problems/VARDIGS
+https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF
