@@ -9,3 +9,5 @@ https://www.codechef.com/START249D/problems/VARDIGS
 https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CWC23QUALIF
 https://www.codechef.com/START250D/problems/SUBCOST7
 https://www.codechef.com/START250D/problems/PPT
+https://www.codechef.com/problems/CHKEV
+https://www.codechef.com/problems/BUSROW
