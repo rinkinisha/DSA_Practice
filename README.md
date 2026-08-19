@@ -12,4 +12,5 @@ https://www.codechef.com/START250D/problems/PPT
 https://www.codechef.com/problems/CHKEV
 https://www.codechef.com/problems/BUSROW
 https://www.geeksforgeeks.org/problems/reverse-coding2452/1?page=1&category=Mathematical&sortBy=submissions
+https://www.codechef.com/START252D/problems/IOI7
 
